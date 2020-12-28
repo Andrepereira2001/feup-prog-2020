@@ -1,0 +1,16 @@
+6 X 8
+Aa H PROTECT
+Cb H THUNDER
+Af V CADETS
+Ab V RAT
+Cc V HERO
+
+Gaming Board
+  a b c d e f g h 
+A P R O T E C T   
+B   A       A     
+C   T H U N D E R 
+D     E     E     
+E     R     T     
+F     O     S     
+
