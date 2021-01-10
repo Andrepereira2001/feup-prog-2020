@@ -2,10 +2,10 @@
 This repository contais all the projects that I have done for the course unit PROG while studing in FEUP
 
 ## FIRST PROJECT
-In the first project I was asked to inplement the oware game using C++ language
+In the first project I was asked to implement the [Oware Game](https://en.wikipedia.org/wiki/Oware).
 
 ## SECOND PROJECT
-In the first project I was asked to inplement the oware game using C++ language
+In the second project we where asked to implement the Scrabble Junior game and board builder.
 
 
 ## DISCLAIMER
