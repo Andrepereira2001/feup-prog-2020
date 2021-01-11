@@ -5,7 +5,7 @@ This repository contais all the projects that I have done for the course unit PR
 In the first project I was asked to implement the [Oware Game](https://en.wikipedia.org/wiki/Oware).
 
 ## SECOND PROJECT
-In the second project we where asked to implement the Scrabble Junior game and board builder.
+In the second project we where asked to implement the Scrabble Junior game and it's board builder.
 
 
 ## DISCLAIMER
