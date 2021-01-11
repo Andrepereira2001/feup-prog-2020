@@ -9,4 +9,4 @@ In the second project we where asked to implement the Scrabble Junior game and i
 
 
 ## DISCLAIMER
-Second project made with [Matilde Oliveira](https://github.com/maildejoliveir "maildejoliveira")
+Second project made with [Matilde Oliveira](https://github.com/maildejoliveira "maildejoliveira")
